@@ -1,0 +1,5 @@
+#input
+    platano a manzana b uva c durazno d
+#output
+    durazno a manzana b platano c uva d
+#endtest

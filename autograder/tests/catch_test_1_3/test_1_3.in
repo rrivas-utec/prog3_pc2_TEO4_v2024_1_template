@@ -1,0 +1,6 @@
+#input
+    |
+    pp | mm | aa | ee | ff | yy | gg | vv | dd
+#output
+    aa | dd | ee | ff | gg | mm | pp | vv | yy
+#endtest

@@ -1,0 +1,5 @@
+#input
+    Hello, world! This is a test. Let's tokenize this text: efficiently.
+#output
+    Hello|world|This|is|a|test|Lets|tokenize|this|text|efficiently|
+#endtest
